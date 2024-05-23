@@ -1,0 +1,42 @@
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.exe
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.deps.json
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.MainForm.resources
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.Properties.Resources.resources
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.GenerateResource.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\refint\ArenaGameWinForms.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ref\ArenaGameWinForms.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameEngine.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameEngine.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.AssemblyReference.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGam.5EF0854C.Up2Date
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.exe
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.deps.json
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.runtimeconfig.json
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameWinForms.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameEngine.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\bin\Debug\net8.0-windows\ArenaGameEngine.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.MainForm.resources
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.Properties.Resources.resources
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.GenerateResource.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGam.5EF0854C.Up2Date
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\refint\ArenaGameWinForms.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ArenaGameWinForms.genruntimeconfig.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameWinForms\obj\Debug\net8.0-windows\ref\ArenaGameWinForms.dll
