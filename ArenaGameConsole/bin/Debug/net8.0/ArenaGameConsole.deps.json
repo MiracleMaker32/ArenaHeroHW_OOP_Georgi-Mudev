@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArenaGameConsole/1.0.0": {
+        "dependencies": {
+          "ArenaGameEngine": "1.0.0"
+        },
+        "runtime": {
+          "ArenaGameConsole.dll": {}
+        }
+      },
+      "ArenaGameEngine/1.0.0": {
+        "runtime": {
+          "ArenaGameEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaGameConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaGameEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

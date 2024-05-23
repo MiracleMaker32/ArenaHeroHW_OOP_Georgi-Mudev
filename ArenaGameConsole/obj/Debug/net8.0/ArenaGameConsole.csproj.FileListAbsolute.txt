@@ -1,0 +1,36 @@
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.exe
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.deps.json
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.runtimeconfig.json
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\refint\ArenaGameConsole.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.genruntimeconfig.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ref\ArenaGameConsole.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameEngine.dll
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameEngine.pdb
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.csproj.AssemblyReference.cache
+C:\Projects\Lectures\2023-2024\OOP BIT\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGam.0813144C.Up2Date
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\refint\ArenaGameConsole.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.exe
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.deps.json
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.runtimeconfig.json
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameConsole.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameEngine.dll
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\bin\Debug\net8.0\ArenaGameEngine.pdb
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGam.0813144C.Up2Date
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ArenaGameConsole.genruntimeconfig.cache
+C:\Users\Georgi\Desktop\HW\Day 6\ArenaGameConsole\obj\Debug\net8.0\ref\ArenaGameConsole.dll
